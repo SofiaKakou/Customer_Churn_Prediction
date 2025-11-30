@@ -47,43 +47,6 @@ This work demonstrates both technical and analytical skills for real-world data 
 
 ---
 
-## Project Structure
-
-```plaintext
-Thesis_Project/
-│
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── final/
-│
-├── notebooks/
-│   ├── 01-data-exploration.ipynb
-│   ├── 02-data-cleaning.ipynb
-│   ├── 03-eda.ipynb
-│   ├── 04-feature-engineering.ipynb
-│   ├── 05-modelling.ipynb
-│   └── 06-shap-dashboard.ipynb
-│
-├── dashboard/
-│   ├── app.py
-│   └── visuals/
-│
-├── docs/
-│   ├── data-dictionary/
-│   ├── supervisor-notes/
-│   └── report-drafts/
-│
-├── outputs/
-│   ├── charts/
-│   ├── model-metrics/
-│   └── shap/
-│
-└── README.md
-
-
----
-
 ## ⭐ Key Features
 
 - **Multi-industry churn prediction** (banking, telecom, e-commerce)  
@@ -147,18 +110,3 @@ The interactive dashboard (Streamlit or Power BI) will include:
 - Prediction explorer  
 
 ---
-
-## 🚀 Installation & Usage
-
-To clone and run the project:
-
-```bash
-# Clone repository
-git clone https://github.com/YOUR_USERNAME/customer-churn-thesis-project
-
-# Navigate to repository
-cd customer-churn-thesis-project
-
-# (Optional) Install dependencies if running locally
-pip install -r requirements.txt
-
