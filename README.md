@@ -1,8 +1,6 @@
-# Customer_Churn_Prediction
-
 <h1 align="center">
   <br>
-  📊 Customer Churn Prediction Thesis Project
+   Customer Churn Prediction Thesis Project
   <br>
 </h1>
 
@@ -31,7 +29,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This repository contains my final-year thesis project focused on **predicting customer churn** using machine learning techniques and comparing patterns across **multiple industries**.
 
@@ -47,7 +45,7 @@ This work demonstrates both technical and analytical skills for real-world data 
 
 ---
 
-## ⭐ Key Features
+##  Key Features
 
 - **Multi-industry churn prediction** (banking, telecom, e-commerce)  
 - **End-to-end ML pipeline** built with Python  
@@ -59,7 +57,7 @@ This work demonstrates both technical and analytical skills for real-world data 
 
 ---
 
-## 📚 Datasets
+##  Datasets
 
 All datasets are sourced from publicly available resources such as **Kaggle**.
 
@@ -73,7 +71,7 @@ All datasets are sourced from publicly available resources such as **Kaggle**.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (Pandas, NumPy)
 - **Machine Learning:** Scikit-Learn, XGBoost  
@@ -85,7 +83,7 @@ All datasets are sourced from publicly available resources such as **Kaggle**.
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 This section will be updated as the project progresses.
 
@@ -99,7 +97,7 @@ Planned results include:
 
 ---
 
-## 🖥️ Dashboard
+##  Dashboard
 
 The interactive dashboard (Streamlit or Power BI) will include:
 
