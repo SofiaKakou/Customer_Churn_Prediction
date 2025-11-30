@@ -48,4 +48,115 @@ This work demonstrates both technical and analytical skills for real-world data 
 ---
 
 ## 🗂️ Project Structure
+📁 Customer_Churn_Prediction/
+│
+├── 📂 data/
+│ ├── raw/
+│ ├── processed/
+│ └── final/
+│
+├── 📂 notebooks/
+│ ├── 01-data-exploration.ipynb
+│ ├── 02-data-cleaning.ipynb
+│ ├── 03-eda.ipynb
+│ ├── 04-feature-engineering.ipynb
+│ ├── 05-modelling.ipynb
+│ └── 06-shap-dashboard.ipynb
+│
+├── 📂 dashboard/
+│ ├── app.py
+│ └── visuals/
+│
+├── 📂 docs/
+│ ├── data-dictionary/
+│ ├── supervisor-notes/
+│ └── report-drafts/
+│
+├── 📂 outputs/
+│ ├── charts/
+│ ├── model-metrics/
+│ └── shap/
+│
+└── README.md
+
+
+---
+
+## ⭐ Key Features
+
+- **Multi-industry churn prediction** (banking, telecom, e-commerce)  
+- **End-to-end ML pipeline** built with Python  
+- **Exploratory Data Analysis (EDA)** with visualizations  
+- **Advanced ML models** (Random Forest, XGBoost)  
+- **Model explainability** using SHAP  
+- **Interactive dashboard** built with Streamlit or Power BI  
+- **Business insights & recommendations** included  
+
+---
+
+## 📚 Datasets
+
+All datasets are sourced from publicly available resources such as **Kaggle**.
+
+| Industry | Source | Size | Target |
+|---------|--------|------|--------|
+| Telecom | Kaggle | ~7k rows | Churn |
+| Banking | Kaggle | ~10k rows | Exited / Churn |
+| E-commerce | Kaggle or UCI | varies | Cancellation / Churn |
+
+*(Full information in `/docs/data-dictionary/`.)*
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python** (Pandas, NumPy)
+- **Machine Learning:** Scikit-Learn, XGBoost  
+- **Visualization:** Matplotlib, Seaborn  
+- **Explainability:** SHAP  
+- **Dashboard:** Streamlit / Power BI / Tableau  
+- **Environment:** Google Colab  
+- **Version control:** GitHub  
+
+---
+
+## 📈 Results & Insights
+
+This section will be updated as the project progresses.
+
+Planned results include:
+
+- Best-performing churn model per industry  
+- Feature importance analysis  
+- SHAP global & local explanations  
+- Industry comparison metrics  
+- Business recommendations  
+
+---
+
+## 🖥️ Dashboard
+
+The interactive dashboard (Streamlit or Power BI) will include:
+
+- Churn overview  
+- Feature importance panels  
+- Interactive filters  
+- Multi-industry comparison  
+- Prediction explorer  
+
+---
+
+## 🚀 Installation & Usage
+
+To clone and run the project:
+
+```bash
+# Clone repository
+git clone https://github.com/YOUR_USERNAME/customer-churn-thesis-project
+
+# Navigate to repository
+cd customer-churn-thesis-project
+
+# (Optional) Install dependencies if running locally
+pip install -r requirements.txt
 
