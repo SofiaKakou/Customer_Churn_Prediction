@@ -18,13 +18,11 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#project-structure">Project Structure</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#datasets">Datasets</a> •
   <a href="#tools--technologies">Tools</a> •
   <a href="#results--insights">Results</a> •
   <a href="#dashboard">Dashboard</a> •
-  <a href="#installation--usage">Installation</a>
 </p>
 
 ---
