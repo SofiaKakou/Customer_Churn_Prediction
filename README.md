@@ -47,35 +47,37 @@ This work demonstrates both technical and analytical skills for real-world data 
 
 ---
 
-## 🗂️ Project Structure
-📁 Customer_Churn_Prediction/
+## Project Structure
+
+```plaintext
+Thesis_Project/
 │
-├── 📂 data/
-│ ├── raw/
-│ ├── processed/
-│ └── final/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── final/
 │
-├── 📂 notebooks/
-│ ├── 01-data-exploration.ipynb
-│ ├── 02-data-cleaning.ipynb
-│ ├── 03-eda.ipynb
-│ ├── 04-feature-engineering.ipynb
-│ ├── 05-modelling.ipynb
-│ └── 06-shap-dashboard.ipynb
+├── notebooks/
+│   ├── 01-data-exploration.ipynb
+│   ├── 02-data-cleaning.ipynb
+│   ├── 03-eda.ipynb
+│   ├── 04-feature-engineering.ipynb
+│   ├── 05-modelling.ipynb
+│   └── 06-shap-dashboard.ipynb
 │
-├── 📂 dashboard/
-│ ├── app.py
-│ └── visuals/
+├── dashboard/
+│   ├── app.py
+│   └── visuals/
 │
-├── 📂 docs/
-│ ├── data-dictionary/
-│ ├── supervisor-notes/
-│ └── report-drafts/
+├── docs/
+│   ├── data-dictionary/
+│   ├── supervisor-notes/
+│   └── report-drafts/
 │
-├── 📂 outputs/
-│ ├── charts/
-│ ├── model-metrics/
-│ └── shap/
+├── outputs/
+│   ├── charts/
+│   ├── model-metrics/
+│   └── shap/
 │
 └── README.md
 
