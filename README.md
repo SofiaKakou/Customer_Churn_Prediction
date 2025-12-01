@@ -61,7 +61,7 @@ All datasets are sourced from publicly available resources such as **Kaggle**.
 
 | Industry | Source | Size | Target |
 |---------|--------|------|--------|
-| Telecom | Kaggle | ~7k rows | Churn |
+| Telecom | Kaggle | ~3k rows | Churn |
 | Banking | Kaggle | ~10k rows | Exited / Churn |
 | E-commerce | Kaggle or UCI | varies | Cancellation / Churn |
 
@@ -97,7 +97,7 @@ Planned results include:
 
 ##  Dashboard
 
-The interactive dashboard (Streamlit or Power BI) will include:
+The interactive dashboard will include:
 
 - Churn overview  
 - Feature importance panels  
