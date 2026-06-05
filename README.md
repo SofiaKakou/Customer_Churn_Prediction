@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  A machine learning–based analysis for predicting customer churn across multiple industries (telecom, banking, e-commerce), using Python, Scikit-Learn, XGBoost, and interactive dashboard tools.
+  A machine learning–based analysis for predicting customer churn across multiple industries (telecom, banking), using Python, Scikit-Learn, XGBoost, and interactive dashboard tools.
 </h4>
 
 <p align="center">
@@ -50,7 +50,7 @@ This work demonstrates both technical and analytical skills for real-world data 
 - **Exploratory Data Analysis (EDA)** with visualizations  
 - **Advanced ML models** (Random Forest, XGBoost)  
 - **Model explainability** using SHAP  
-- **Interactive dashboard** built with Streamlit or Power BI  
+- **Interactive dashboard** built with Streamlit 
 - **Business insights & recommendations** included  
 
 ---
@@ -98,7 +98,7 @@ Planned results include:
 
 The interactive dashboard will include:
 
-- Churn overview  
+- Churn overview
 - Feature importance panels  
 - Interactive filters  
 - Multi-industry comparison  
