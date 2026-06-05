@@ -63,7 +63,6 @@ All datasets are sourced from publicly available resources such as **Kaggle**.
 |---------|--------|------|--------|
 | Telecom | Kaggle | ~3k rows | Churn |
 | Banking | Kaggle | ~10k rows | Exited / Churn |
-| E-commerce | Kaggle or UCI | varies | Cancellation / Churn |
 
 *(Full information in `/docs/data-dictionary/`.)*
 
@@ -75,7 +74,7 @@ All datasets are sourced from publicly available resources such as **Kaggle**.
 - **Machine Learning:** Scikit-Learn, XGBoost  
 - **Visualization:** Matplotlib, Seaborn  
 - **Explainability:** SHAP  
-- **Dashboard:** Streamlit / Power BI / Tableau  
+- **Dashboard:** Streamlit 
 - **Environment:** Google Colab  
 - **Version control:** GitHub  
 
